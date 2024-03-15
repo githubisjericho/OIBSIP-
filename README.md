@@ -1,4 +1,4 @@
-# OIBSIP-
+# OIBSIP
 # Showcase of Machine Learning Projects
 
 Welcome to our GitHub repository where a collection of exciting machine learning projects is showcased! Here, insights into various endeavors in leveraging data science techniques to tackle diverse challenges and uncover valuable insights are presented.
